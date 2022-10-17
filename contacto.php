@@ -139,7 +139,7 @@
                     </form>
                 </div>
                 <div class="col-12 col-md-6">
-                    <img src="img/contacto.jpg 2" class="img-fluid border-20" alt="contacto IMG">
+                    <img src="img/asersa/Detalles/contacto.webp" class="img-fluid border-20" alt="contacto IMG">
                 </div>
             </div>
         </div>

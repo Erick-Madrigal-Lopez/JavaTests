@@ -21,15 +21,15 @@
             <h1 class="h2 rojo text-center f800 text-uppercase">¿Quiénes somos?</h1>
             <div class="row mt-5 d-flex align-items-center">
                 <div class="col-12 col-md-6 mb-3 mb-md-0">
-                    <img src="img/nosotros-01.png 2" class="img-fluid" alt="Sobre nosotros">
+                    <img src="img/asersa/quienes somos.webp" class="img-fluid border-20 shadow mb-5" alt="Sobre nosotros">
                 </div>
                 <div class="col-12 col-md-6 text-center">
-                    <div class="text-center">
+                    <div class="text-center"><!--
                         <img src="img/iso01.png 2" class="img-fluid mx-2" alt="ISO">
-                        <img src="img/iso02.png 2" class="img-fluid mx-2" alt="ISO">
+                        <img src="img/iso02.png 2" class="img-fluid mx-2" alt="ISO">-->
                     </div>
                     <p class="mt-4">
-                        Sobre nosotros
+                    <span class="f600">ASERSA</span> es tu aliado mecánico. Tenemos la mejor capacidad de respuesta y la mejor atención a tus necesidades ya sean de mantenimiento de vehículos de cargas pesadas como la venta de refacciones para los mismos
                         <!--<span class="f600">SLI</span> es tu aliado logístico. Tenemos la mejor capacidad de respuesta pues contamos con más de <span class="f600">1,500 asociados transportistas y 14 tipos de remolques</span> para transporte de mercancías y arrastre de contenedores con cobertura en todo el país.-->
                     </p>
                 </div>
@@ -51,33 +51,33 @@
                     <h3 class="f800 rojo text-uppercase">Valores</h3>
                     <div class="row mt-4 d-flex justify-content-center">
                         <div class="col-12 col-md-4 mb-3">
-                            <img src="img/icons/responsabilidad.png 2" class="img-fluid" alt="Valor">
+                            <img src="img/icons/responsabilidad.png" class="img-fluid" alt="Valor">
                             <p class="f800 text-uppercase mt-2">
-                                <!--Responsabilidad--> valor
+                                Responsabilidad
                             </p>
                         </div>
                         <div class="col-12 col-md-4 mb-3">
-                            <img src="img/icons/honestidad.png 2" class="img-fluid" alt="valor">
+                            <img src="img/icons/honestidad.png" class="img-fluid" alt="valor">
                             <p class="f800 text-uppercase mt-2">
-                                <!--Honestidad--> Valor
+                                Honestidad
                             </p>
                         </div>
                         <div class="col-12 col-md-4 mb-3">
-                            <img src="img/icons/humildad.png 2" class="img-fluid" alt="valor">
+                            <img src="img/icons/humildad.png" class="img-fluid" alt="valor">
                             <p class="f800 text-uppercase mt-2">
-                                <!--Humildad--> valor
+                                Humildad
                             </p>
                         </div>
                         <div class="col-12 col-md-4 mb-3">
-                            <img src="img/icons/congruencia.png 2" class="img-fluid" alt="valor">
+                            <img src="img/icons/congruencia.png" class="img-fluid" alt="valor">
                             <p class="f800 text-uppercase mt-2">
-                                <!--Congruencia--> valor
+                                Congruencia
                             </p>
                         </div>
                         <div class="col-12 col-md-4 mb-3">
-                            <img src="img/icons/respeto.png 2" class="img-fluid" alt="valor">
+                            <img src="img/icons/respeto.png" class="img-fluid" alt="valor">
                             <p class="f800 text-uppercase mt-2">
-                                <!--Respeto--> valor
+                                Respeto
                             </p>
                         </div>
                     </div>
@@ -86,37 +86,37 @@
         </div>
     </section>
 
-    <img src="img/pleca.png 2" alt="collage" class="img-fluid d-none d-md-block"  >
+    <img src="img/asersa/Detalles/collage.jpg" alt="collage" class="d-block m-auto"  >
 
     <section class="padding">
         <div class="container">
-        <div class="row text-center mt-5">
+        <div class="row text-center mt-5 justify-content-center">
 				<div class="col-12 my-5">
 					<h2 class="f800 text-uppercase rojo">Propuesta de valor</h2>
 				</div>
 				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/confianza.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><!--Confianza--></p>
+					<img src="img/icons/confianza.png" class="img-fluid" alt="">
+					<p class="h5 f800 text-uppercase mt-3">Confianza</p>
 				</div>
-				<div class="col-6 col-sm-4 mb-4">
+				<!--<div class="col-6 col-sm-4 mb-4">
 					<img src="img/icons/seguimiento.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><!--Seguimiento en <br>tiempo real</p>-->
+					<p class="h5 f800 text-uppercase mt-3"><!--Seguimiento en <br>tiempo real</p>--
 				</div>
 				<div class="col-6 col-sm-4 mb-4">
 					<img src="img/icons/soluciones.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><!--Soluciones <br>inteligentes</p>-->
-				</div>
+					<p class="h5 f800 text-uppercase mt-3"><!--Soluciones <br>inteligentes</p>--
+				</div>--
 				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/capacidad.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><!--Gran capacidad <br>de carga</p>-->
+					<img src="img/icons/capacidad.png" class="img-fluid" alt="">
+					<p class="h5 f800 text-uppercase mt-3">Gran capacidad <br>de carga</p>
 				</div>
 				<div class="col-6 col-sm-4 mb-4">
 					<img src="img/icons/cobertura.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><!--Cobertura <br>Geográfica</p>-->
-				</div>
+					<p class="h5 f800 text-uppercase mt-3"><!--Cobertura <br>Geográfica</p>--
+				</div>-->
 				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/respuesta.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><!--Gran capacidad <br>de respuesta</p>-->
+					<img src="img/icons/respuesta.png" class="img-fluid" alt="">
+					<p class="h5 f800 text-uppercase mt-3">Gran capacidad <br>de respuesta</p>
 				</div>
 			</div>
 

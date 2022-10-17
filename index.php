@@ -81,7 +81,7 @@
 			<div class="row">
 				<div class="col-12 col-md-6 mb-3 mb-md-0">
 					<!-- Imagen de quienes somo justo debajo del banner por la izquierda -->
-					<img src="img/asersa/quienes somos.webp" alt="¿Quiénes somos?" height="200px" class="rounded-lg shadow" >
+					<img src="img/asersa/quienes somos.webp" alt="¿Quiénes somos?" height="200px" class="border-20 shadow" >
 				</div>
 				<div class="col-12 col-md-6">
 					<div>
