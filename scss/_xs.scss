@@ -1,0 +1,147 @@
+body{
+
+	*{
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 400;
+		color: #333133;
+	}
+
+	// General section
+	section{
+		&.padding{
+			padding: 40px 0;
+		}
+	}
+
+	//	Header
+	header{
+		position: sticky;
+		top: 0;
+		background-color: rgba(255,255,255,.95);
+		z-index: 99;
+	}
+
+	// Section Intro
+	.section-intro{
+		.empresa-nav{
+			list-style: none;
+			margin: 30px 0 0;
+			padding: 0;
+
+			li{
+				display: inline-block;
+				font-weight: 800;
+				text-transform: uppercase;
+				cursor: pointer;
+				//font-size: 12px;
+				opacity: .6;
+
+				&:hover, &.active{
+					opacity: 1;
+				}
+			}
+		}
+	}
+
+	/*----------  Section tipos de servicios  ----------*/
+	.section-tipos-servicios{
+		.item{
+			position: relative;
+			margin-top: 50px !important;
+
+			p{
+				z-index: 1;
+				position: absolute;
+				left: 50px;
+				top: -50px;
+			}
+			img{
+				position: relative;
+			}
+		}
+	}
+
+	/*----------  Section ventajas ----------*/
+	.section-ventajas{
+		.ventaja{
+			position: relative;
+			cursor: pointer;
+
+			.descripcion{
+				display: none;
+				//display: block;
+				border-radius: 20px;
+				position: absolute;
+				top: 0;
+				right: 0;
+				bottom: 0;
+				left: 0;
+			}
+		}
+	}
+
+	/*----------  Section Contacto ----------*/
+	.section-contacto{
+		.form-control{
+			border: 0;
+			border-radius: 0;
+			border-bottom: solid 1px #6c6c6c;
+		}
+	}
+
+	/*----------  Tipos Servicios  ----------*/
+	.tipos-servicios{
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+
+		.number{
+			width: 40px;
+			height: 40px;
+			line-height: 40px;
+			background-color: $rojo;
+			border: solid 3px $gris;
+			border-radius: 50%;
+			text-align: center;
+			vertical-align: middle;
+			display: inline-block;
+			color: #fff;
+			font-weight: 800;
+		}
+	}
+
+	/*----------  Footer ----------*/
+	footer{
+		.redes-footer{
+			a{
+				text-decoration: none;
+				display: inline-block;
+				text-align: center;
+				height: 30px;
+				width: 30px;
+				border-radius: 50%;
+
+				&:hover{
+					text-decoration: none;
+				}
+
+				i{
+					font-size: 18px;
+					line-height: 30px;
+				}
+			}
+		}
+	}
+
+	.bot{
+		background-color: #525252;
+
+		a{
+			color: #00c2c9;
+			text-decoration: none;
+		}
+	}
+
+	// #intro{
+	// 	height: 330px;
+	// }
+}

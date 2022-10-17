@@ -1,0 +1,30 @@
+/*----------  Colores  ----------*/
+$rojo: #eb1d25;
+$grisOscuro: #212322;
+$gris: #aaaaaa;
+$verde: #78c043;
+$azul: #0c7ac0;
+
+@import '_xs';
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+	@import '_sm';
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+	@import '_md';
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+	@import '_lg';
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+	@import '_xl';
+}
+
+@import '_helpers';

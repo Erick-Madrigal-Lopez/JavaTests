@@ -1,0 +1,184 @@
+
+/*----------  Section Parallax  ----------*/
+.section-parallax{
+	min-height: 60vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	overflow-x: hidden !important;
+}
+
+/*----------  Columna Background  ----------*/
+.col-bg{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 50vh;
+}
+
+/*----------  Background color  ----------*/
+.bg-rojo{
+	background-color: $rojo;
+}
+.bg-gris-oscuro{
+	background-color: $grisOscuro;
+}
+.bg-gris{
+	background-color: $gris;
+}
+.bg-verde{
+	background-color: $verde;
+}
+.bg-azul{
+	background-color: $azul;
+}
+
+
+/*----------  Text color  ----------*/
+.rojo{
+	color: $rojo;
+}
+.gris-oscuro{
+	color: $grisOscuro;
+}
+.gris{
+	color: $gris;
+}
+.verde{
+	color: $verde;
+}
+.azul{
+	color: $azul;
+}
+
+
+/*----------  Font Weight  ----------*/
+.f100{
+	font-weight: 100 !important;
+}
+.f200{
+	font-weight: 200 !important;
+}
+.f300{
+	font-weight: 300 !important;
+}
+.f400{
+	font-weight: 400 !important;
+}
+.f500{
+	font-weight: 500 !important;
+}
+.f600{
+	font-weight: 600 !important;
+}
+.f800{
+	font-weight: 800 !important;
+}
+.f900{
+	font-weight: 900 !important;
+}
+
+/*----------  Opacity  ----------*/
+.opacity-10{
+	opacity: .1;
+}
+.opacity-20{
+	opacity: .2;
+}
+.opacity-30{
+	opacity: .3;
+}
+.opacity-40{
+	opacity: .4;
+}
+.opacity-50{
+	opacity: .5;
+}
+.opacity-60{
+	opacity: .6;
+}
+.opacity-70{
+	opacity: .7;
+}
+.opacity-80{
+	opacity: .8;
+}
+.opacity-90{
+	opacity: .9;
+}
+
+/*----------  Max Width  ----------*/
+.max300{
+	max-width: 300px;
+}
+.max400{
+	max-width: 400px;
+}
+.max500{
+	max-width: 500px;
+}
+.max600{
+	max-width: 600px;
+}
+.max700{
+	max-width: 700px;
+}
+.max800{
+	max-width: 800px;
+}
+.max900{
+	max-width: 900px;
+}
+.max1000{
+	max-width: 1000px;
+}
+
+.floating-wpp-head span{
+	color: #fff;
+	font-weight: 600;
+}
+
+h1, h2{
+	&.borde-bottom{
+		position: relative;
+		display: block;
+		margin-bottom: 60px;
+
+		&::after{
+			content: "";
+			position: absolute;
+			width: 150px;
+			left: 50%;
+			margin-left: -75px;
+			height: 6px;
+			background-color: #000;
+			bottom: -30px;
+			display: block;
+			border-radius: 10px;
+		}
+	}
+}
+
+.with-errors{
+	li{
+		color: $rojo;
+	}
+}
+
+#whatsapp{
+	z-index: 9999;
+}
+
+.map-holder, .border-20{
+	border-radius: 20px;
+}
+
+.icon{
+	display: inline-block;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 50%;
+	padding: 0;
+}
+
