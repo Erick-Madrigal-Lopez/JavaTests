@@ -32,7 +32,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js" defer></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCouSgZpOOjPuiMhhsXyv2agiAPbxZecZg" defer></script>
 <script src="js/maps.js" defer></script>
-<script src="js/whatsapp/floating-wpp.js" defer></script>
+<!--<script src="js/whatsapp/floating-wpp.js" defer></script>-->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vegas/2.5.1/vegas.min.js"></script> -->
 <!-- <script src="https://cdn.jsdelivr.net/npm/paroller.js@1.4.6/dist/jquery.paroller.min.js"></script> -->
@@ -70,7 +70,7 @@
 
 
         /*----------  WhatsApp  ----------*/
-        if($('#whatsapp').length){			
+        /*if($('#whatsapp').length){			
 	        $('#whatsapp').floatingWhatsApp({
 	            phone: '5213321843647',
 	            popupMessage: 'Hola, estamos para apoyarte si tienes alguna duda.',
@@ -83,8 +83,7 @@
 	            size: '50px',
                 autoOpenTimeout: 100
 	        });
-        }
-		
+        }*/
 
         setTimeout(function(){
             var hash = window.location.hash.substr(1);

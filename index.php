@@ -81,7 +81,7 @@
 			<div class="row">
 				<div class="col-12 col-md-6 mb-3 mb-md-0">
 					<!-- Imagen de quienes somo justo debajo del banner por la izquierda -->
-					<img src="img/asersa/quienes somos.webp" alt="¿Quiénes somos?" height="200px" class="per" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);">
+					<img src="img/asersa/quienes somos.webp" alt="¿Quiénes somos?" height="200px" class="rounded-lg shadow" >
 				</div>
 				<div class="col-12 col-md-6">
 					<div>
@@ -215,24 +215,24 @@
 					<img src="img/asersa/Tipo de servicios/venta.png" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
 					<!--<img src="img/tipos-servicios-04.png 1" class="img-fluid" alt="IMG 2">-->
 				</div>
-				<div class="item col-12 col-md-6 my-4">
+				<!--<div class="item col-12 col-md-6 my-4">
 					<p class="h3 f800 text-white text-uppercase">
-						<!--Cajas <br>secas-->
+						<!--Cajas <br>secas--
 					</p>
 					<img src="img/tipos-servicios-05.png 1" class="img-fluid" alt="IMG 3">
 				</div>
 				<div class="item col-12 col-md-6 my-4">
 					<p class="h3 f800 text-white text-uppercase">
-						<!--Tolvas <br>de volteo-->
+						<!--Tolvas <br>de volteo--
 					</p>
 					<img src="img/tipos-servicios-06.png 1" class="img-fluid" alt="IMG 4">
 				</div>
 				<div class="item col-12 col-md-6 my-4">
 					<p class="h3 f800 text-white text-uppercase">
-						<!--Porta <br>contenedores-->
+						<!--Porta <br>contenedores--
 					</p>
 					<img src="img/tipos-servicios-02.png 1" class="img-fluid" alt="IMG 5">
-				</div>
+				</div>-->
 			</div>
 		</div>
 	</section>
@@ -241,114 +241,117 @@
 		<div class="container">
 			<div class="text-center">
 				<h2 class="text-uppercase f800 rojo">¿Por qué elegirnos?</h2>
-				<p class="text center py-4 max700 mx-auto"> Datos <!--
+				<p class="text center py-4 max700 mx-auto"> 
+					Somos una empresa comprometida con la innovación y el servicio a bien del consumidor, <br>
+					todos nuestros productos son importados y de primera calidad con el fin de ofrecer <br>
+					el mejor servicio posible a nuestros clientes 
+					<!--
 					Combinamos una robusta <span class="f600">infraestructura logística, innovación tecnológica y un gran equipo humano</span> para hacer cada traslado lo más seguro y eficiente posible.
 				--></p>
 				<p class="h5 text-uppercase f800 rojo py-4 d-block">
 					<!-- SLI ofrece las siguientes ventajas:-->
-					Descripsion
+					Descripción
 				</p>
 			</div>
 			<div class="row text-center mt-5 d-flex justify-content-center">
 				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/experiencia.png 2" class="img-fluid" alt="Imagen">
+					<img src="img/asersa/Detalles/experiencia.jpg" class="img-fluid rounded shadow" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Experiencia-->Título
+						Experiencia
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Experiencia--> Título</h4>
+						<h4 class="f800 opacity-40 text-white mb-4">Experiencia</h4>
 						<p class="text-white">
-							<!--Nos aseguramos que todas Ias necesidades de carga y movimiento sean cubiertas con los más altos estándares de calidad y servicio.--> Contenido
+							Nos aseguramos que todas las necesidades de reparación y tractoservicios sean cubiertas al contactar con nosotros
 						</p>
 					</div>
 				</div>
 				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/transporte-multimodal.png 2" class="img-fluid" alt="Imagen">
+					<img src="img/asersa/Detalles/servicio.jpg" class="img-fluid rounded shadow" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Calidad <br>y procesos-->Título
+						Servicios
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Calidad <br>y procesos-->Título</h4>
+						<h4 class="f800 opacity-40 text-white mb-4">Servicios</h4>
 						<p class="text-white">
-							Contenido
-						<!--	Nos adaptamos a las necesidades de su carga. La capacidad de respuesta a sus requerimientos y la certeza en nuestros procesos garantizan que su mercancía está en las mejores manos desde su origen hasta su destino final y en el momento y lugar precisos.
+							Estamos comprometidos a ofrecer servicios de mantanimiento a tractovehículos, así como ofrecer lo mejor en refacciones de primera calidad
 						--></p>
 					</div>
 				</div>
-				<div class="ventaja col-12 col-md-4 mb-3">
+				<!--<div class="ventaja col-12 col-md-4 mb-3">
 					<img src="img/calidad-y-procesos.png 2" class="img-fluid" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Transporte <br>multimodal--> Título
+						<!--Transporte <br>multimodal-- Título
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Transporte <br>multimodal--> Título </h4>
+						<h4 class="f800 opacity-40 text-white mb-4"><!--Transporte <br>multimodal-- Título </h4>
 						<p class="text-white">Contenido<!--
-							Como empresa multimodal, integramos los servicios <span class="f600 text-white">marítimo, ferroviario y autotransporte,</span> garantizando el envío de su producto a cualquier parte del país.-->
+							Como empresa multimodal, integramos los servicios <span class="f600 text-white">marítimo, ferroviario y autotransporte,</span> garantizando el envío de su producto a cualquier parte del país.--
 						</p>
 					</div>
 				</div>
 				<div class="ventaja col-12 col-md-4 mb-3">
 					<img src="img/cobertura-nacional.png 2" class="img-fluid" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Cobertura <br>nacional--> Título
+						<!--Cobertura <br>nacional-- Título
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Cobertura <br>nacional--> Título</h4>
+						<h4 class="f800 opacity-40 text-white mb-4"><!--Cobertura <br>nacional-- Título</h4>
 						<p class="text-white">Contenido<!--
 							Tenemos sucursales en los puntos estratégicos más importantes del país, con ejecutivos especializados en los diferentes canales de servicio.
-						--></p>
+						--</p>
 					</div>
 				</div>
 				<div class="ventaja col-12 col-md-4 mb-3">
 					<img src="img/tarifas-competitivas.png 2" class="img-fluid" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Tarifas Competitivas--> Titulo
+						<!--Tarifas Competitivas-- Titulo
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Tarifas <br>Competitivas--> Titulo</h4>
+						<h4 class="f800 opacity-40 text-white mb-4"><!--Tarifas <br>Competitivas-- Titulo</h4>
 						<p class="text-white"> Contenido<!--
-							Gracias a nuestra cobertura nacional, infraestructura y tecnologías aplicadas nos reafirmamos como la empresa transportista que ofrece las mejores tarifas del mercado.-->
+							Gracias a nuestra cobertura nacional, infraestructura y tecnologías aplicadas nos reafirmamos como la empresa transportista que ofrece las mejores tarifas del mercado.--
 						</p>
 					</div>
 				</div>
 				<div class="ventaja col-12 col-md-4 mb-3">
 					<img src="img/tecnologia-de-vanguardia.png 2" class="img-fluid" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Tecnología de vanguardia--> Titulo
+						<!--Tecnología de vanguardia-- Titulo
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Tecnología de <br>vanguardia--> Titulo</h4>
+						<h4 class="f800 opacity-40 text-white mb-4"><!--Tecnología de <br>vanguardia-- Titulo</h4>
 						<p class="text-white">
-							<!--SLI integra sistemas de útlima generación tanto para el monitoreo GPS de unidades, controles de seguridad en ruta y patios así como sistemas Web App y Apps para gestión y administración que permiten a nuestros clientes consultar en tiempo real el status de sus rutas así como su historial.--> Contenido
+							<!--SLI integra sistemas de útlima generación tanto para el monitoreo GPS de unidades, controles de seguridad en ruta y patios así como sistemas Web App y Apps para gestión y administración que permiten a nuestros clientes consultar en tiempo real el status de sus rutas así como su historial.-- Contenido
 						</p>
 					</div>
 				</div>
 				<div class="ventaja col-12 col-md-4 mb-3">
 					<img src="img/equipo-vehicular.png 2" class="img-fluid" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Equipo <br>vehicular--> Titulo
+						<!--Equipo <br>vehicular-- Titulo
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Equipo <br>vehicular--> Titulo</h4>
+						<h4 class="f800 opacity-40 text-white mb-4"><!--Equipo <br>vehicular-- Titulo</h4>
 						<p class="text-white">
 							Contenido
-							<!--Contamos con los modelos más recientes de portacontenedores, cajas secas, jaulas y tolvas. Unidades sometidas a constante mantenimiento en nuestros talleres propios permitiéndonos una cobertura nacional.-->
+							<!--Contamos con los modelos más recientes de portacontenedores, cajas secas, jaulas y tolvas. Unidades sometidas a constante mantenimiento en nuestros talleres propios permitiéndonos una cobertura nacional.--
 						</p>
 					</div>
 				</div>
 				<div class="ventaja col-12 col-md-4 mb-3">
 					<img src="img/seguro-de-mercancia.png 2" class="img-fluid" alt="Imagen">
 					<p class="f800 text-uppercase mt-3">
-						<!--Seguro <br>de mercancia--> Titulo
+						<!--Seguro <br>de mercancia-- Titulo
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Seguro de <br>Mercancía--> Titulo</h4>
+						<h4 class="f800 opacity-40 text-white mb-4"><!--Seguro de <br>Mercancía-- Titulo</h4>
 						<p class="text-white">
 							Contenido
-							<!--Ofrecemos un seguro opcional contra robo de mercancía o accidentes.-->
+							<!--Ofrecemos un seguro opcional contra robo de mercancía o accidentes.--
 						</p>
 					</div>
-				</div>
+				</div>-->
 			</div>
 		</div>
 	</section>
@@ -376,6 +379,7 @@
 -->
 	<?php include_once('partials/footer.php'); ?>
 	<?php include_once('partials/scripts.php'); ?>
+	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.9/jquery.mb.YTPlayer.min.js"></script>
 	<script>
 		$(function(){
