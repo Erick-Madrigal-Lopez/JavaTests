@@ -46,7 +46,7 @@
 			<h1 class="h2 rojo text-center f800 text-uppercase">Nuestras líneas <br>de negocio</h1>
 			<div class="row mt-5">
 				<div class="col-12 col-md-6">
-					<img src="img/granelero-01.png" class="img-fluid" alt="">
+					<img src="img/asersa/productos/presentacion.png" class="img-fluid" alt="">
 				</div>
 				<div class="col-12 col-md-6 d-flex align-items-center justify-content-between p-5">
 					<div class="row text-center">
@@ -73,38 +73,32 @@
 					<br>esto nos permite ofrecer la mejor opción para su negocio.
 				</p>
 				<p class="f600">
-					En sli, actualmente damos soluciones logísticas a los <br>siguientes sectores e industrias:
+					En asersa, actualmente damos servicios como lo son:
 				</p>
 			</div>
 			<div class="row mt-5 text-center">
 				<div class="col-6 col-md">
-					<img src="img/icons/granos-agricolas.png" class="img-fluid" alt="">
+					<img src="img/asersa/productos/sector refaccionaria.png" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Granos <br>agricolas
+						Servicios <br> de reparaciones
 					</p>
 				</div>
 				<div class="col-6 col-md">
-					<img src="img/icons/fertilizantes.png" class="img-fluid" alt="">
+					<img src="img/asersa/productos/sector mantenimiento.png" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Fertilizantes
+						Servicios <br> de mantenimiento
 					</p>
 				</div>
 				<div class="col-6 col-md">
-					<img src="img/icons/bienes-de-consumo.png" class="img-fluid" alt="">
+					<img src="img/asersa/productos/sector venta.png" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Bienes <br>de consumo <br>alimenticio
+						Venta de <br> refacciones
 					</p>
 				</div>
 				<div class="col-6 col-md">
-					<img src="img/icons/carga-y-descarga.png" class="img-fluid" alt="">
+					<img src="img/asersa/productos/sector atencion.png" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Carga y <br>descarga de <br>buques
-					</p>
-				</div>
-				<div class="col-6 col-md">
-					<img src="img/icons/contenedores.png" class="img-fluid" alt="">
-					<p class="f800 mt-2">
-						Contenedores
+						Atensión <br> personalizada
 					</p>
 				</div>
 			</div>
@@ -113,12 +107,11 @@
 
 	<section class="bg-rojo pt-5">
 		<div class="container text-center max800">
-			<h2 class="text-white text-uppercase f800">Multimodal:</h2>
+			<h2 class="text-white text-uppercase f800">Multifuncional:</h2>
 			<p class="text-white mt-3">
-				Somos una empresa multimodal, integramos los <span class="f600 text-white">servicios ferroviarios,
-					marítimos en embarcaciones de cabotaje y de autotransporte,s</span> garantizando el envío de sus
-				productos a cualquier parte del país en perfectas condiciones y bajo rigurosos estándares de calidad
-				desde su origen hasta su destino final.
+				Somos una empresa multifuncional, que ofrece tanto servicios de reparación y
+				mantenimiento como servicios de venta y atención, donde nos enfocamos principalmente
+				en los tractos
 			</p>
 
 			<h2 class="text-white text-uppercase f800 mt-5 mb-4">Tipos de servicios:</h2>
@@ -127,37 +120,37 @@
 					<div class="col-12 col-md-6">
 						<div class="mb-3 d-flex align-items-center">
 							<div><span class="number mr-2">1</span></div>
-							<div class="ml-2 text-white text-uppercase f600">Jaulas Graneleras</div>
+							<div class="ml-2 text-white text-uppercase f600">Mantenimientos</div>
 						</div>
 						<div class="mb-3 d-flex align-items-center">
 							<div><span class="number mr-2">2</span></div>
-							<div class="ml-2 text-white text-uppercase f600">Porta contenedores</div>
+							<div class="ml-2 text-white text-uppercase f600">Reparaciones</div>
 						</div>
 						<div class="mb-3 d-flex align-items-center">
 							<div><span class="number mr-2">3</span></div>
-							<div class="ml-2 text-white text-uppercase f600">Cajas secas</div>
+							<div class="ml-2 text-white text-uppercase f600">Ventas</div>
 						</div>
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="mb-3 d-flex align-items-center">
-							<div><span class="number">4</span></div>
-							<div class="ml-2 text-white text-uppercase f600">Tolvas de desarga baja grado alimenticio
+							<div><span class="number mr-2">4</span></div>
+							<div class="ml-2 text-white text-uppercase f600">Atensión
 							</div>
 						</div>
 						<div class="mb-3 d-flex align-items-center">
 							<div><span class="number mr-2">5</span></div>
-							<div class="ml-2 text-white text-uppercase f600">Tolvas de volteo</div>
+							<div class="ml-2 text-white text-uppercase f600">Garantías</div>
 						</div>
-						<div class="mb-3 d-flex align-items-center">
+						<!--<div class="mb-3 d-flex align-items-center">
 							<div><span class="number mr-2">6</span></div>
 							<div class="ml-2 text-white text-uppercase f600">Plataformas</div>
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
+<!--
 	<section class="section-intro section-parallax d-flex align-items-center justify-content-center padding"
 		data-image-src="img/parallax05.jpeg" data-parallax="scroll" data-bleed="10" data-speed="0.2" data-z-ndex="-100"
 		data-natural-width="1920" data-natural-height="1080">
@@ -209,7 +202,7 @@
 			</div>
 		</div>
 	</section>
-
+	-->
 	<section class="section-intro section-parallax d-flex align-items-center justify-content-center padding"
 		data-image-src="img/parallax04.jpeg" data-parallax="scroll" data-bleed="10" data-speed="0.2" data-z-ndex="-100"
 		data-natural-width="1920" data-natural-height="1080">
@@ -224,11 +217,11 @@
 							operaciones.
 						</p>
 
-						<h3 class="h2 text-white f800 text-uppercase mt-5">Equipo Vehicular:</h3>
+						<h3 class="h2 text-white f800 text-uppercase mt-5">Equipo y Herramienta:</h3>
 						<p class="text-white">
-							En SLI buscamos la seguridad de sus mercancías es por ello que contamos con un <span
-								class="f600 text-white">equipo vehicular no mayor a 5 años, operadores
-								certificados</span> con pruebas continuas de antidoping y aplicaciones de polígrafo.
+							En ASERSA buscamos la seguridad de sus vehículos es por ello que contamos con una <span
+								class="f600 text-white">gran cantidad de herramientas y equipos</span> que facilitan
+								las revisiones, mantenimientos y reparaciones.
 						</p>
 
 						<h3 class="h2 text-white f800 text-uppercase mt-5">Tarifas competitivas:</h3>

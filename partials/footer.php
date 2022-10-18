@@ -24,17 +24,14 @@
 					<p class="text-white small f600 mb-2">
 						Redes sociales
 					</p>
-					<a href="https://www.facebook.com/slitransporte" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
+					<a href="https://www.facebook.com/" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
 						<i class="fa fa-facebook text-white"></i>
 					</a>
-					<a href="https://www.instagram.com/slitransporte/" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
+					<a href="https://www.instagram.com/" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
 						<i class="fa fa-instagram text-white"></i>
 					</a>
-					<a href="https://www.linkedin.com/company/soluciones-logisticas-inteligentes/" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
+					<a href="https://www.linkedin.com/company/" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
 						<i class="fa fa-linkedin text-white"></i>
-					</a>
-					<a href="https://www.youtube.com/channel/UCMR8BnGxYen4QwqOLKmHf8A" target="_blank" class="bg-rojo mr-1 text-center text-decoration-none">
-						<i class="fa fa-youtube text-white"></i>
 					</a>
 				</div>
 			</div>
