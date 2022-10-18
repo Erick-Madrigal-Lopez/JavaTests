@@ -43,7 +43,7 @@
 	<div class="bot text-white py-4 text-center">
 		<div class="container">
 			<span class="text-white">
-				&copy;Todos los derechos reservados <?php echo date('Y'); ?>. - Site By: <span class="text-white f600">SLI - Soluciones Logísticas Inteligentes</span> <!--<a href="https://bolder.com.mx" target="_blank" class="f600">Bolder</a>-->
+				&copy;Todos los derechos reservados <?php echo date('Y'); ?>. - Site By: <span class="text-white f600">SLI</span> <!--<a href="https://bolder.com.mx" target="_blank" class="f600">Bolder</a>-->
 			</span>
 		</div>
 	</div>

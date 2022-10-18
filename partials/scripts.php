@@ -47,10 +47,10 @@
     /*----------  Loader  ----------*/
     $('.fakeLoader').fakeLoader({
         timeToHide: 1000,
-        spinner: 'spinner1',
-        bgColor: '#eb1d25',
-        zIndex: '5000'
-
+        //spinner: 'spinner7',
+        bgColor: '#ffffff',
+        zIndex: '5000',
+        imagePath: 'img/asersa/logo.jpg'
     });
 
     jQuery(document).ready(function($) {

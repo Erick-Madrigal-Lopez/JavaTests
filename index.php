@@ -15,7 +15,7 @@
 	<?php include_once('partials/styles.php'); ?>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.9/css/jquery.mb.YTPlayer.min.css" />
 	
-	<!-- Código de instalación Cliengo para http://www.sli.mx/ --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/611be3f3573407002ae0c7ef/61295f7a9a88bf002a314e24.js?platform=view_installation_code'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+	<!-- Código de instalación Cliengo para http://www.sli.mx/ -- <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/611be3f3573407002ae0c7ef/61295f7a9a88bf002a314e24.js?platform=view_installation_code'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>-->
 </head>
 <body>
 	<?php include_once('partials/header.php'); ?>
