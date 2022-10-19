@@ -47,7 +47,7 @@ body .section-tipos-servicios .item {
 body .section-tipos-servicios .item p {
     z-index: 1;
     position: absolute;
-    left: 50px;
+    left: 99px;
     top: -50px
 }
 

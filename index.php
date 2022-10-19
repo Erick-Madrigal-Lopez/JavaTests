@@ -9,6 +9,15 @@
 	<meta name="keywords" content="">
 	<meta name="author" content="">
 	<meta name="copyright" content="">
+
+	<style>
+		body .section-tipos-servicios .item .cc {
+			z-index: 1;
+			position: absolute;
+			left: 99px;
+			top: -50px
+		}
+	</style>
     
 
 	<?php //include_once('partials/metas.php'); ?>
@@ -208,14 +217,14 @@
 					<img src="img/tipos-servicios-01.png" class="img-fluid" alt="">
 				</div> -->
 				<div class="item col-12 col-md-6 my-4">
-					<p class="h3 f800 text-white text-uppercase text-center">
+					<p class="h3 f800 text-white text-uppercase text-center cc">
 						<!--Jaulas <br>graneleras--> Reparaciones
 					</p>
 					<img src="img/asersa/Tipo de servicios/Reparacion.jpg" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
 					<!--<img src="img/tipos-servicios-03.png 1" class="img-fluid" alt="IMG 1">-->
 				</div>
 				<div class="item col-12 col-md-6 my-4">
-					<p class="h3 f800 text-white text-uppercase text-center">
+					<p class="h3 f800 text-white text-uppercase text-center cc">
 						<!--Tolvas de <br>descarga baja de <br>acero inoxidable-->
 						Venta de <br> Refacciones
 					</p>
@@ -248,16 +257,16 @@
 		<div class="container">
 			<div class="text-center">
 				<h2 class="text-uppercase f800 rojo">¿Por qué elegirnos?</h2>
-				<p class="text center py-4 max700 mx-auto"> 
-					Somos una empresa comprometida con la innovación y el servicio a bien del consumidor, <br>
-					todos nuestros productos son importados y de primera calidad con el fin de ofrecer <br>
+				<p class="text center py-4 max700 mx-auto text-justify"> 
+					Somos una empresa comprometida con la innovación y el servicio a bien del consumidor, 
+					todos nuestros productos son importados y de primera calidad con el fin de ofrecer 
 					el mejor servicio posible a nuestros clientes 
 					<!--
 					Combinamos una robusta <span class="f600">infraestructura logística, innovación tecnológica y un gran equipo humano</span> para hacer cada traslado lo más seguro y eficiente posible.
 				--></p>
 				<p class="h5 text-uppercase f800 rojo py-4 d-block">
 					<!-- SLI ofrece las siguientes ventajas:-->
-					Descripción
+					Ventajas de elejirnos
 				</p>
 			</div>
 			<div class="row text-center mt-5 d-flex justify-content-center">
