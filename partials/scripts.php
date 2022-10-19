@@ -23,7 +23,7 @@
 	
 	
 </script>
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.9/jquery.mb.YTPlayer.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.9/jquery.mb.YTPlayer.min.js"></script> 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/2.2.0/jquery.smooth-scroll.min.js" defer></script>
 <!-- <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax.js/1.5.0/parallax.min.js" defer></script>
@@ -47,10 +47,11 @@
     /*----------  Loader  ----------*/
     $('.fakeLoader').fakeLoader({
         timeToHide: 1000,
-        //spinner: 'spinner7',
+        spinner: 'spinner7',
         bgColor: '#ffffff',
         zIndex: '5000',
         imagePath: 'img/asersa/logo.jpg'
+
     });
 
     jQuery(document).ready(function($) {

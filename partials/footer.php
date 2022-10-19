@@ -16,8 +16,9 @@
 						Aviso de privacidad
 					</a>
 					<p class="text-white small f600">
-						<a href="mailto:contacto@asersa.mx" class="text-decoration-none text-white f600">contacto@asersa.mx</a> <br><br>
+						<a href="mailto:emmanuel.villaseñor@asersa.mx" class="text-decoration-none text-white f600">emmanuel.villaseñor@asersa.mx</a> <br><br>
 						<a href="tel:3336960808" class="text-decoration-none text-white">+52 (33) 3696 0808</a>
+						Ext. 11002
 					</p>
 				</div>
 				<div class="col-12 col-lg-2 mb-3 mb-lg-0 redes-footer text-center text-md-left">

@@ -101,29 +101,36 @@
 							<div class="carousel-item active">
 								<h3 class="rojo f800 text-uppercase">¿Quiénes somos?</h3>
 								
-								<p>
+								<p class="text-justify">
 									<span class="f600">ASERSA</span> es tu aliado mecánico. Tenemos la mejor capacidad de respuesta y la mejor atención a tus necesidades ya sean de mantenimiento de vehículos de cargas pesadas como la venta de refacciones para los mismos
 								</p>
 
 							</div>
-							<div class="carousel-item">
+							<div class="carousel-item ">
 								<h3 class="rojo f800 text-uppercase">Valores</h3>
-								<p>
-									- Servicio <br>
-									- Excelencia <br>
+								<p class="text-justify">
+									- Responsabilidad <br>
 									- Honestidad <br>
-									- Eficiencia <br>
-									- Innovación
+									- Humildad <br>
+									- Congruencia <br>
+									- Respeto <br>
+									- Empatía
 								</p>
 							</div>
 							<div class="carousel-item">
 								<h3 class="rojo f800 text-uppercase">Misión</h3>
+								<p class="text-justify">
+									Ser la mejor opción para nuestros clientes, colaboradores y socios comerciales, en el rubro de mantenimiento vehicular a nivel local y nacional a través de nuestros socios comerciales, diferenciados por la calidad de nuestros servicios, competitividad de nuestro personal, infraestructura, vanguardia en tecnología automotriz y compromiso con el medio ambiente.
+								</p>
 								<!--<p>
 									Somos un grupo de empresas que brindamos soluciones logísticas inteligentes, creadas para satisfacer las necesidades de nuestros clientes y asociados, mediante la integración eficiente de la red de valor.
 								</p>-->
 							</div>
 							<div class="carousel-item">
 								<h3 class="rojo f800 text-uppercase">Visión</h3>
+								<p class="text-justify">
+									Brindar la mejor calidad en nuestros servicios de mantenimiento vehicular, conservando las unidades de nuestros clientes en un estado de operación eficiente y seguro, satisfaciendo las necesidades de cada uno de nuestros clientes en tiempo y costo apoyados de nuestros pilares.
+								</p>
 								<!--<p>
 									En 2025 ser la integradora de soluciones logisticas mas innovadora de México, agregando valor a nuestros clientes, colaboradores y socios de negocio.
 								</p>-->
@@ -201,14 +208,14 @@
 					<img src="img/tipos-servicios-01.png" class="img-fluid" alt="">
 				</div> -->
 				<div class="item col-12 col-md-6 my-4">
-					<p class="h3 f800 text-white text-uppercase">
+					<p class="h3 f800 text-white text-uppercase text-center">
 						<!--Jaulas <br>graneleras--> Reparaciones
 					</p>
 					<img src="img/asersa/Tipo de servicios/Reparacion.jpg" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
 					<!--<img src="img/tipos-servicios-03.png 1" class="img-fluid" alt="IMG 1">-->
 				</div>
 				<div class="item col-12 col-md-6 my-4">
-					<p class="h3 f800 text-white text-uppercase">
+					<p class="h3 f800 text-white text-uppercase text-center">
 						<!--Tolvas de <br>descarga baja de <br>acero inoxidable-->
 						Venta de <br> Refacciones
 					</p>
@@ -356,13 +363,13 @@
 		</div>
 	</section>
 
-	<!--
-	<section class="section-numeralia bg-rojo padding">
-		<div class="container">
-			<h2 class="f800 text-center text-uppercase">Datos importantes:</h2>
-			<div class="row mt-5 text-center">
-				<div class="col-12 col-md-4 mb-3 mb-md-0">
-					<div class="count text-white f800 display-4 mb-2">1,500</div>
+	
+	<section class="section-numeralia bg-light padding">
+		<div class="container" data-entrance="from-right" data-entrance-delay="100">
+			<h2 class="f800 text-center text-uppercase">Multi marca:</h2>
+			<div class="row mt-5 text-center justify-content-center">
+				<!--<div class="col-12 col-md-4 mb-3 mb-md-0">
+					<div class="count text-white f800 display-4 mb-2">13000</div>
 					<span class="d-block text-uppercase text-white">Asociados <br>en todo el país</span>
 				</div>
 				<div class="col-12 col-md-4 mb-3 mb-md-0">
@@ -372,11 +379,50 @@
 				<div class="col-12 col-md-4 mb-3 mb-md-0">
 					<div class="count text-white f800 display-4 mb-2">18</div>
 					<span class="d-block text-uppercase text-white">Años<br> en el sector</span>
+				</div>-->
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen2.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen3.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen4.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen5.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen6.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen7.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen8.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen9.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen10.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen11.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen12.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen13.png" alt="MARCA">
+				</div>
+				<div class="col-12 col-md-3 mb-3 mb-md-0">
+					<img class="img-fluid" src="img/asersa/marcas/Imagen14.png" alt="MARCA">
 				</div>
 			</div>
 		</div>
 	</section>
--->
+
 	<?php include_once('partials/footer.php'); ?>
 	<?php include_once('partials/scripts.php'); ?>
 	
