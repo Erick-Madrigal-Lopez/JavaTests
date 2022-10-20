@@ -52,32 +52,32 @@
 					<br>esto nos permite ofrecer la mejor opción para su negocio.
 				</p>
 				<p class="f600">
-					En asersa, actualmente damos servicios como lo son:
+					En asersa, se da servicio a:
 				</p>
 			</div>
 			<div class="row mt-5 text-center">
 				<div class="col-6 col-md">
-					<img src="img/asersa/productos/sector refaccionaria.png" class="img-fluid" alt="">
+					<img src="img/asersa/Icons/remolque.svg" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Servicios <br> de reparaciones
+						Remolques
 					</p>
 				</div>
 				<div class="col-6 col-md">
-					<img src="img/asersa/productos/sector mantenimiento.png" class="img-fluid" alt="">
+					<img src="img/asersa/Icons/dolly.svg" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Servicios <br> de mantenimiento
+						Dollys
 					</p>
 				</div>
 				<div class="col-6 col-md">
-					<img src="img/asersa/productos/sector venta.png" class="img-fluid" alt="">
+					<img src="img/asersa/Icons/torton.svg" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Venta de <br> refacciones
+						Tortons
 					</p>
 				</div>
 				<div class="col-6 col-md">
-					<img src="img/asersa/productos/sector atencion.png" class="img-fluid" alt="">
+					<img src="img/asersa/Icons/tracto.svg" class="img-fluid" alt="">
 					<p class="f800 mt-2">
-						Atensión <br> personalizada
+						Tractos
 					</p>
 				</div>
 			</div>
@@ -210,7 +210,7 @@
 						</p>
 					</div>
 					<div class="col-12 col-md-6">
-						<img src="img/granelero-02.png" class="img-fluid" alt="">
+						<img src="img/asersa/Icons/productos_final.png" class="img-fluid" alt="">
 					</div>
 				</div>
 			</div>

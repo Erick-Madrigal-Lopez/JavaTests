@@ -208,19 +208,19 @@
 					</p>
 					<img src="img/tipos-servicios-01.png" class="img-fluid" alt="">
 				</div> -->
-				<div class="item col-12 col-md-6 my-4">
-					<p class="h3 f800 text-white text-uppercase text-center cc">
+				<div class="item col-12 col-md-6 my-4 justify-content-center">
+					<p class="h3 f800 text-white text-uppercase text-center cc d-block">
 						<!--Jaulas <br>graneleras--> Reparaciones
 					</p>
-					<img src="img/asersa/Tipo de servicios/Reparacion.jpg" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
+					<img class="d-block m-auto" src="img/asersa/Tipo de servicios/Reparacion.jpg" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
 					<!--<img src="img/tipos-servicios-03.png 1" class="img-fluid" alt="IMG 1">-->
 				</div>
-				<div class="item col-12 col-md-6 my-4">
-					<p class="h3 f800 text-white text-uppercase text-center cc">
+				<div class="item col-12 col-md-6 my-4 justify-content-center" >
+					<p class="h3 f800 text-white text-uppercase text-center cc d-block">
 						<!--Tolvas de <br>descarga baja de <br>acero inoxidable-->
 						Venta de <br> Refacciones
 					</p>
-					<img src="img/asersa/Tipo de servicios/venta.png" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
+					<img class="d-block m-auto" src="img/asersa/Tipo de servicios/venta.png" alt="" srcset="" style="border-radius: 20px; box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -webkit-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); -moz-box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49);" height="300px">
 					<!--<img src="img/tipos-servicios-04.png 1" class="img-fluid" alt="IMG 2">-->
 				</div>
 				<!--<div class="item col-12 col-md-6 my-4">
@@ -269,7 +269,7 @@
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
 						<h4 class="f800 opacity-40 text-white mb-4">Experiencia</h4>
-						<p class="text-white">
+						<p class="text-white text-justify">
 							Nos aseguramos que todas las necesidades de reparación y tractoservicios sean cubiertas al contactar con nosotros
 						</p>
 					</div>
@@ -281,9 +281,9 @@
 					</p>
 					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
 						<h4 class="f800 opacity-40 text-white mb-4">Servicios</h4>
-						<p class="text-white">
+						<p class="text-white text-justify">
 							Estamos comprometidos a ofrecer servicios de mantanimiento a tractovehículos, así como ofrecer lo mejor en refacciones de primera calidad
-						--></p>
+						</p>
 					</div>
 				</div>
 				<!--<div class="ventaja col-12 col-md-4 mb-3">
@@ -366,20 +366,82 @@
 
 	<section class="section-numeralia bg-light padding">
 		<div class="container" data-entrance="from-left" data-entrance-delay="100">
+			<h2 class="f800 text-center text-uppercase">SERVICIOS:</h2>
+			<div class="row mt-5 text-center justify-content-center ">
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/escaner.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Escaneo y <br> daignóstico</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/frenos.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Frenos</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/suspensión.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Suspensión</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/reparacion motor.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Reparación <br> de motor <br> de Diesel</p>
+				</div>
+			</div>
+			<div class="row mt-5 text-center justify-content-center ">
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/transmision manual.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Transmisiones <br> manuales</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/mantenimiento.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Mantenimiento <br> preventivo</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/aceite.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Engrasado</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/electrico.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Sistema electrico <br> y electrónico</p>
+				</div>
+			</div>
+			<div class="row mt-5 text-center justify-content-center ">
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/vulcanizado.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Vulcanizadora</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/asistencia vial.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Asistencia vial 24/7</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/mofles.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Mofles</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/alineacion balanceo.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Alineación y balanceo</p>
+				</div>
+			</div>
+			<div class="row mt-5 text-center justify-content-center ">
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/hojalateria pintura.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Hojalateria y pintura</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/aire acondicionado.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Aire acondicionado</p>
+				</div>
+				<div class="col-3 col-md-2 mb-3 mb-md-0 mx-4">
+					<img class="img-fluid icono" src="img/asersa/Icons/lavado.png" alt="MARCA">
+					<p class="f800 text-uppercase mt-3">Lavado de chasis, carrocería, motor, vestiduras, sanitización</p>
+				</div>
+			</div>
+		</div>
+	</section> 
+
+	<section class="section-numeralia bg-light padding">
+		<div class="container" data-entrance="from-left" data-entrance-delay="100">
 			<h2 class="f800 text-center text-uppercase">Multi marca:</h2>
 			<div class="row mt-5 text-center justify-content-center">
-				<!--<div class="col-12 col-md-4 mb-3 mb-md-0">
-					<div class="count text-white f800 display-4 mb-2">13000</div>
-					<span class="d-block text-uppercase text-white">Asociados <br>en todo el país</span>
-				</div>
-				<div class="col-12 col-md-4 mb-3 mb-md-0">
-					<div class="count text-white f800 display-4 mb-2">14</div>
-					<span class="d-block text-uppercase text-white">Tipos de remolque<br> para toda necesidad</span>
-				</div>
-				<div class="col-12 col-md-4 mb-3 mb-md-0">
-					<div class="count text-white f800 display-4 mb-2">18</div>
-					<span class="d-block text-uppercase text-white">Años<br> en el sector</span>
-				</div>-->
 				<div class="col-12 col-md-3 mb-3 mb-md-0">
 					<img class="img-fluid" src="img/asersa/marcas/Imagen2.png" alt="MARCA">
 				</div>
