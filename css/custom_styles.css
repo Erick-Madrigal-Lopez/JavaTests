@@ -1,0 +1,25 @@
+body .section-tipos-servicios .item .cc {
+    z-index: 1;
+    position: absolute;
+    left: 99px;
+    top: -50px
+}
+
+.fondo {
+    background-image: url("../img/asersa/logo_main_new.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+span.number{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #eb1d25;
+    border: solid 3px #aaa;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    color: #fff;
+    font-weight: 800
+}

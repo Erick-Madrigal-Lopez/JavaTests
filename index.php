@@ -10,14 +10,6 @@
 	<meta name="author" content="">
 	<meta name="copyright" content="">
 
-	<style>
-		body .section-tipos-servicios .item .cc {
-			z-index: 1;
-			position: absolute;
-			left: 99px;
-			top: -50px
-		}
-	</style>
     
 
 	<?php //include_once('partials/metas.php'); ?>

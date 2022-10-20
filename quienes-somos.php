@@ -29,21 +29,23 @@
                         <img src="img/iso02.png 2" class="img-fluid mx-2" alt="ISO">-->
                     </div>
                     <p class="mt-4">
-                    <span class="f600">ASERSA</span> es tu aliado mecánico. Tenemos la mejor capacidad de respuesta y la mejor atención a tus necesidades ya sean de mantenimiento de vehículos de cargas pesadas como la venta de refacciones para los mismos
+                    <span class="f600 text-justify">ASERSA</span> es tu aliado mecánico. Tenemos la mejor capacidad de respuesta y la mejor atención a tus necesidades ya sean de mantenimiento de vehículos de cargas pesadas como la venta de refacciones para los mismos
                         <!--<span class="f600">SLI</span> es tu aliado logístico. Tenemos la mejor capacidad de respuesta pues contamos con más de <span class="f600">1,500 asociados transportistas y 14 tipos de remolques</span> para transporte de mercancías y arrastre de contenedores con cobertura en todo el país.-->
                     </p>
                 </div>
             </div>
-            <div class="row mt-5 text-center">
+            <div class="row mt-5 text-center justify-content-center">
                 <div class="col-12 col-md-5">
                     <h3 class="f800 rojo text-uppercase">Misión</h3>
-                    <p>
-                        Contenido misión
+                    <p class="text-justify">
+                    Brindar la mejor calidad en nuestros servicios de mantenimiento vehicular, conservando las unidades de nuestros clientes en un estado de operación eficiente y seguro, satisfaciendo las necesidades de cada uno de nuestros clientes en tiempo y costo apoyados de nuestros pilares.
+
                         <!--Somos un grupo de empresas que brindan <span class="f600">soluciones logísticas inteligentes,</span> creadas para satisfacer las necesidades de nuestros clientes y asociados mediante la integración eficiente de la red de valor.-->
                     </p>
                     <h3 class="f800 rojo text-uppercase mt-5">Visión</h3>
-                    <p>
-                        contenido visión
+                    <p class="text-justify">
+                    Ser la mejor opción para nuestros clientes, colaboradores y socios comerciales, en el rubro de mantenimiento vehicular a nivel local y nacional a través de nuestros socios comerciales, diferenciados por la calidad de nuestros servicios, competitividad de nuestro personal, infraestructura, vanguardia en tecnología automotriz y compromiso con el medio ambiente.
+
                         <!--En 2025 ser la integradora de <span class="f600">soluciones logísticas más innovadora de México,</span> agregando valor a nuestros clientes, colaboradores y socios de negocio.-->
                     </p>
                 </div>
@@ -80,6 +82,56 @@
                                 Respeto
                             </p>
                         </div>
+                        <div class="col-12 col-md-4 mb-3">
+                            <img src="img/icons/empatia.png" class="img-fluid" alt="valor">
+                            <p class="f800 text-uppercase mt-2">
+                                Empatía
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="row justify-content-center">
+                        <h3 class="f800 rojo text-uppercase">Objetivos <img src="img/asersa/Icons/check.png" alt=""></h3>
+                        <div class="row text-left justify-content-center">
+                            <div class="col-12 col-md-12">
+                                <div class="mb-3 d-flex align-items-center">
+                                    <div><span class="number mr-2">1</span></div>
+                                    <div class="ml-2 text-uppercase f600">
+                                    Mantener en optimas condiciones los vehiculos de nuestros clientes, mediante mantenimientos predictivos y preventivos
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex align-items-center">
+                                    <div><span class="number mr-2">2</span></div>
+                                    <div class="ml-2 text-uppercase f600">
+                                    Reducción de mantenimientos correctivos
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex align-items-center">
+                                    <div><span class="number mr-2">3</span></div>
+                                    <div class="ml-2 text-uppercase f600">
+                                    Proveer de información a nuestros clientes para toma de decisiones .
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex align-items-center">
+                                    <div><span class="number mr-2">4</span></div>
+                                    <div class="ml-2 text-uppercase f600">
+                                    Reducción de rescates carreteros
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex align-items-center">
+                                    <div><span class="number mr-2">5</span></div>
+                                    <div class="ml-2 text-uppercase f600">
+                                    Establecer programas de mantenimiento integrales.
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex align-items-center">
+                                    <div><span class="number mr-2">6</span></div>
+                                    <div class="ml-2 text-uppercase f600">
+                                    Desarrollar soluciones a la medida para cada uno de nuestros clientes.
+                                    </div>
+                                </div>
+                            </div>
                     </div>
                 </div>
             </div>

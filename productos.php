@@ -10,27 +10,6 @@
 	<meta name="keywords" content="">
 	<meta name="author" content="">
 	<meta name="copyright" content="">
-	<style>
-		p.title {
-			font-size: 23px;
-			color: #000;
-			font-weight: bold;
-		}
-
-		p.description {
-			font-size: 17px;
-			color: #000;
-		}
-
-		p.price {
-			color: green;
-		}
-
-		img.imagen {
-			height: 200px;
-			width: auto;
-		}
-	</style>
 
 	<?php //include_once('partials/metas.php'); ?>
 	<?php include_once('partials/styles.php'); ?>
