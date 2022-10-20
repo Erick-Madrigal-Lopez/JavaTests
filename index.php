@@ -86,7 +86,7 @@
 	</div>
 
 	<section class="section-intro section-parallax d-flex align-items-center justify-content-center padding" data-image-src="img/parallax01.jpeg" data-parallax="scroll" data-bleed="10" data-speed="0.2" data-z-ndex="-100" data-natural-width="1920" data-natural-height="1080">
-		<div class="container" data-entrance="from-right" data-entrance-delay="100">
+		<div class="container" data-entrance="from-left" data-entrance-delay="100">
 			<div class="row">
 				<div class="col-12 col-md-6 mb-3 mb-md-0">
 					<!-- Imagen de quienes somo justo debajo del banner por la izquierda -->
@@ -94,10 +94,10 @@
 				</div>
 				<div class="col-12 col-md-6">
 					<div>
-<!-- imagenes de certificacion iso
+		<!-- imagenes de certificacion iso
 						<img src="img/iso01.png" class="img-fluid mr-2" alt="">
 						<img src="img/iso02.png" class="img-fluid" alt="">
--->
+		-->
 					</div>
 
 					<div id="slideEmpresa" class="carousel slide mt-5" >
@@ -205,7 +205,7 @@
 	</section>
 
 	<section class="section-tipos-servicios padding bg-gris-oscuro">
-		<div class="container">
+		<div class="container" data-entrance="from-left" data-entrance-delay="100">
 			<div class="text-center">
 				<h2 class="f800 rojo text-uppercase">Tipos de servicios</h2>
 			</div>
@@ -254,7 +254,7 @@
 	</section>
 
 	<section class="section-ventajas padding">
-		<div class="container">
+		<div class="container" data-entrance="from-left" data-entrance-delay="100">
 			<div class="text-center">
 				<h2 class="text-uppercase f800 rojo">¿Por qué elegirnos?</h2>
 				<p class="text center py-4 max700 mx-auto text-justify"> 
@@ -372,9 +372,8 @@
 		</div>
 	</section>
 
-	
 	<section class="section-numeralia bg-light padding">
-		<div class="container" data-entrance="from-right" data-entrance-delay="100">
+		<div class="container" data-entrance="from-left" data-entrance-delay="100">
 			<h2 class="f800 text-center text-uppercase">Multi marca:</h2>
 			<div class="row mt-5 text-center justify-content-center">
 				<!--<div class="col-12 col-md-4 mb-3 mb-md-0">
