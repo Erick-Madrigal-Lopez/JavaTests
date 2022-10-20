@@ -1,4 +1,5 @@
-<div id="inicio" class="fakeLoader"></div>
+<style>.fondo{  background-image: url("img/asersa/logo_main_new.png"); background-repeat: no-repeat; background-position: center;}</style>
+<div id="inicio" class="fakeLoader fondo" ></div>
 	<header class="shadow">
 		<div class="container d-flex align-items-center justify-content-between">
 			<a href="index.php" class="logo py-2">
