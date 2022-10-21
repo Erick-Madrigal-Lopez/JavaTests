@@ -7,7 +7,7 @@ define("CLAVE_SECRETA", "6Lfo-GwcAAAAAD9_O3JCC7zPnIGRi3JMdqrMpjhz");
 
 # Comprobamos si enviaron el dato
 if (!isset($_POST["g-recaptcha-response"]) || empty($_POST["g-recaptcha-response"])) {
-    exit("Debes completar el captcha");
+    #exit("Debes completar el captcha");
 }
 
 # Antes de comprobar usuario y contraseña, vemos si resolvieron el captcha
@@ -22,8 +22,8 @@ if ($verificado) {
         extract($_POST);
 
         $mail = new phpmailer();
-        $mail->From = "web@sli.mx";
-        $mail->FromName = "Contacto SLIl";
+        $mail->From = "web@asersa.mx";
+        $mail->FromName = "Contacto ASERSAl";
         $mail->Subject = "Ha recibido un nuevo contacto.";
 
         //$mail->AddAddress ("");
@@ -51,7 +51,7 @@ if ($verificado) {
                                                 </tr>
                                                 <tr>
                                                     <td align='center' style='border-collapse:collapse;color:rgb(82,82,82);font-family:Helvetica,Arial,sans-serif;font-size:30px;font-weight:bold;line-height:120%;text-align:center' colspan='3'>
-                                                        Contacto SLI
+                                                        Contacto ASERSA
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -124,7 +124,10 @@ if ($verificado) {
     }
 
 } else {
-    return redirect('./index.php');
+    header('location: ./contacto.php?msj="No se ha podído enviar" ');
+    #return header("Location: ./contacto.php?msj='Error'");
+    exit();
+    
 
 }
 
@@ -177,4 +180,5 @@ function verificarToken($token, $claveSecreta)
     # Regresamos ese valor, y listo (sí, ya sé que se podría regresar $resultado->success)
     return $pruebaPasada;
 }
+
 ?>

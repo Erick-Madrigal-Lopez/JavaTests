@@ -17,8 +17,8 @@
 	<?php include_once('partials/header.php'); ?>
 
     <picture>
-        <source media="(max-width: 799px)" srcset="img/contacto-banner-movil.jpeg" class="w-100">
-        <source media="(min-width: 800px)" srcset="img/contacto-banner.jpeg" class="w-100">
+        <source media="(max-width: 799px)" srcset="img/asersa/Icons/banner_contacto_movil.jpg" class="w-100">
+        <source media="(min-width: 800px)" srcset="img/asersa/Icons/banner_contacto.jpg" class="w-100">
         <img src="img/contacto-banner.jpeg" alt="" class="w-100">
     </picture>
 
@@ -133,7 +133,12 @@
                                 <div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6Lfo-GwcAAAAAJUvgYbAVAJe59rMSD0OsyhZkJcV"></div>
                             </div>
                             <div class="col-12 form-group">
-                                <button name="enviar" id="submitBtn" value="1" class="btn bg-rojo text-white rounded-pill text-uppercase f800 btn-block py-2" disabled>Enviar</button>
+                                <button name="enviar" id="submitBtn" value="1" class="btn bg-rojo text-white rounded-pill text-uppercase f800 btn-block py-2" >Enviar</button>
+                            </div>
+                            <div class="col-12">
+                                <p class="text-center text-danger text-uppercase">
+                                    <?php echo isset ($_GET['msj']) ? $_GET['msj'] : '' ; ?>
+                                </p>
                             </div>
                         </div>
                     </form>
