@@ -3,6 +3,9 @@ body * {
     font-weight: 400;
     color: #333133
 }
+p{
+    font-family: "COCOGOOSE";
+}
 .per{
     border-radius: 20px; 
 	box-shadow: 6px 13px 39px -2px rgba(0,0,0,0.49); 
