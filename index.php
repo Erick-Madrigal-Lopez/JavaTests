@@ -32,41 +32,43 @@
 		<div class="carousel-inner bg-dark" id="intro">
 			<div class="carousel-item active">
 				<picture>
-		         	<source media="(max-width: 799px)" srcset="img/slider/01-movil.jpeg" class="w-100">
-		          	<source media="(min-width: 800px)" srcset="img/slider/01.jpeg" class="w-100">
-		          	<img src="img/slider/01.jpeg" alt="" class="w-100">
+		         	<source media="(max-width: 799px)" srcset="img/asersa/slider/slider1-movil.jpg" class="w-100">
+		          	<source media="(min-width: 800px)" srcset="img/asersa/slider/slider1.jpg" class="w-100">
+		          	<img src="img/asersa/slider/slider1.jpg" alt="" class="w-100">
 		        </picture>
 			</div>
 			<div class="carousel-item">
 				<picture>
-		         	<source media="(max-width: 799px)" srcset="img/slider/02-movil.jpeg" class="w-100">
-		          	<source media="(min-width: 800px)" srcset="img/slider/02.jpeg" class="w-100">
-		          	<img src="img/slider/02.jpeg" alt="" class="w-100">
+		         	<source media="(max-width: 799px)" srcset="img/asersa/slider/slider2-movil.jpg" class="w-100">
+		          	<source media="(min-width: 800px)" srcset="img/asersa/slider/slider2.jpg" class="w-100">
+		          	<img src="img/asersa/slider/slider2.jpg" alt="" class="w-100">
 		        </picture>
 			</div>
 			<div class="carousel-item">
 				<picture>
-		         	<source media="(max-width: 799px)" srcset="img/slider/03-movil.jpeg" class="w-100">
-		          	<source media="(min-width: 800px)" srcset="img/slider/03.jpeg" class="w-100">
-		          	<img src="img/slider/03.jpeg" alt="" class="w-100">
+		         	<source media="(max-width: 799px)" srcset="img/asersa/slider/slider3-movil.jpg" class="w-100">
+		          	<source media="(min-width: 800px)" srcset="img/asersa/slider/slider3.jpg" class="w-100">
+		          	<img src="img/asersa/slider/slider3.jpg" alt="" class="w-100">
 		        </picture>
 			</div>
 			<div class="carousel-item" data-interval="20000" data-pause="hover">
 				<picture>
-		         	<source media="(max-width: 799px)" srcset="img/slider/04-movil.jpeg" class="w-100">
-		          	<source media="(min-width: 800px)" srcset="img/slider/04.jpeg" class="w-100">
-		          	<img src="img/slider/04.jpeg" alt="" class="w-100">
+		         	<source media="(max-width: 799px)" srcset="img/asersa/slider/slider4-movil.jpg" class="w-100">
+		          	<source media="(min-width: 800px)" srcset="img/asersa/slider/slider4.jpg" class="w-100">
+		          	<img src="img/asersa/slider/slider4.jpg" alt="" class="w-100">
 		        </picture>
 			</div>
 			<div class="carousel-item" data-pause="true">
 				<picture style="opacity: 0">
-		         	<source media="(max-width: 799px)" srcset="img/slider/04-movil.jpeg" class="w-100">
-		          	<source media="(min-width: 800px)" srcset="img/slider/04.jpeg" class="w-100">
-		          	<img src="img/slider/04.jpeg" alt="" class="w-100">
+		         	<source media="(max-width: 799px)" srcset="img/asersa/slider/slider4-movil.jpg" class="w-100">
+		          	<source media="(min-width: 800px)" srcset="img/asersa/slider/slider4.jpg" class="w-100">
+		          	<img src="img/asersa/slider/slider4.jpg" alt="" class="w-100">
 		        </picture>
 			</div>
 		</div>
-		<div id="video" data-property="{videoURL:'DMwMJaCadF0', containment:'#intro', autoPlay:true, mute:true, startAt:0, opacity:.8, loop:true, optimizeDisplay: true, stopMovieOnBlur:false, showControls:false, addRaster:true, mask:'https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.9/css/images/raster@2x.png', useOnMobile:true }"></div>
+		<!-- Video Mecanica Prueba: aT3Ajznq0Po  
+			Video SLI: DMwMJaCadF0-->
+		<div id="video" data-property="{videoURL:'aT3Ajznq0Po', containment:'#intro', autoPlay:true, mute:true, startAt:0, opacity:.8, loop:true, optimizeDisplay: true, stopMovieOnBlur:false, showControls:false, addRaster:true, mask:'https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.9/css/images/raster@2x.png', useOnMobile:true }"></div>
 		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 			<span class="sr-only">Previous</span>
