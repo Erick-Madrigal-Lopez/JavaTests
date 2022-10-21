@@ -1,6 +1,6 @@
 <div id="inicio" class="fakeLoader fondo" ></div>
 	<header class="shadow">
-		<div class="container d-flex align-items-center justify-content-between">
+		<div class="containe d-flex align-items-center justify-content-between">
 			<a href="index.php" class="logo py-2">
 				<img src="img/asersa/logo_main_new.png" class="img-fluid" alt="" height="300px">
 			</a>
