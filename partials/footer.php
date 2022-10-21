@@ -12,9 +12,9 @@
 					</p>
 				</div>
 				<div class="col-12 col-lg-3 mb-3 mb-lg-0 text-center text-md-left">
-					<!--<style>.sans-serif{font-family: sans-serif;}</style>-->
-					<p class="text-white small d-flex justify-content-center ">
-						<a href="aviso-de-privacidad.php" class="text-white mb-1 d-block ">Aviso de privacidad</a>
+					<style>.sans-serif{font-family: "COCOGOOSE";}</style>
+					<p class="text-white small justify-content-center ">
+						<a href="aviso-de-privacidad.php" class="text-white mb-1 d-block sans-serif ">Aviso de privacidad</a>
 						<a href="mailto:emmanuel.villasenor@asersa.mx" class="text-decoration-none text-white mb-1 text-lowercase d-block sans-serif">emmanuel.villasenor@asersa.mx</a>
 						<a href="tel:3336960808" class="text-decoration-none text-white sans-serif">+52 (33) 3696 0808</a> Ext. 11002
 					</p>
