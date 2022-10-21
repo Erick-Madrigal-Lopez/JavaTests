@@ -23,3 +23,7 @@ span.number{
     color: #fff;
     font-weight: 800
 }
+
+p.sans-serif{
+    font-family: sans-serif;
+}
