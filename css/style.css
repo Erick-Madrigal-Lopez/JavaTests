@@ -3,7 +3,7 @@ body * {
     font-weight: 400;
     color: #333133
 }
-p{
+p, p>a{
     font-family: "COCOGOOSE";
 }
 .per{
