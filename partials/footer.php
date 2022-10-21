@@ -1,6 +1,6 @@
     <footer class="bg-gris-oscuro py-5">
 		<div class="container">
-			<div class="row d-flex align-items-center">
+			<div class="row d-flex align-items-center justify-content-center">
 				<div class="col-12 col-lg-3 mb-3 mb-lg-0 text-center text-md-left">
 					<img src="img\asersa\logo_main_footer.png" class="img-fluid" alt="">
 				</div>
@@ -11,14 +11,13 @@
 						Jalisco, México  CP: 45870
 					</p>
 				</div>
-				<div class="col-12 col-lg-3 mb-3 mb-lg-0 text-center text-md-left">
-					<a href="aviso-de-privacidad.php" class="text-white f600 text-decoration-none small mb-3 d-block">
+				<div class="col-12 col-lg-4 mb-3 mb-lg-0 text-center text-md-left">
+					<a href="aviso-de-privacidad.php" class="text-white text-decoration-none mb-3 d-block">
 						Aviso de privacidad
 					</a>
 					<p class="text-white small f600">
-						<a href="mailto:emmanuel.villaseñor@asersa.mx" class="text-decoration-none text-white f600">emmanuel.villaseñor@asersa.mx</a> <br><br>
-						<a href="tel:3336960808" class="text-decoration-none text-white">+52 (33) 3696 0808</a>
-						Ext. 11002
+						<p><a href="mailto:emmanuel.villasenor@asersa.mx" class="text-decoration-none text-white f2">emmanuel.villasenor@asersa.mx</a></p> 
+						<p class="text-white f2"><a href="tel:3336960808" class="text-decoration-none text-white">+52 (33) 3696 0808</a> Ext. 11002</p>
 					</p>
 				</div>
 				<div class="col-12 col-lg-2 mb-3 mb-lg-0 redes-footer text-center text-md-left">

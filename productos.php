@@ -47,9 +47,9 @@
 
 			<div class="mt-5 text-center">
 				<h2 class="h3 text-uppercase rojo f800 mb-4">Sectores productivos</h2>
-				<p>
+				<p class="text-justify">
 					Contamos con una <span class="f600">amplia experiencia en el manejo de diversos productos</span>
-					<br>esto nos permite ofrecer la mejor opción para su negocio.
+					esto nos permite ofrecer la mejor opción para su negocio.
 				</p>
 				<p class="f600">
 					En asersa, se da servicio a:
@@ -87,7 +87,7 @@
 	<section class="bg-rojo pt-5">
 		<div class="container text-center max800">
 			<h2 class="text-white text-uppercase f800">Multifuncional:</h2>
-			<p class="text-white mt-3">
+			<p class="text-white mt-3 text-justify">
 				Somos una empresa multifuncional, que ofrece tanto servicios de reparación y
 				mantenimiento como servicios de venta y atención, donde nos enfocamos principalmente
 				en los tractos
@@ -206,7 +206,7 @@
 						<h3 class="h2 text-white f800 text-uppercase mt-5">Tarifas competitivas:</h3>
 						<p class="text-white">
 							Nuestras tarifas son realmente atractivas, ya que <span class="text-white f600">contamos con
-								unidades vacías disponibles en gran parte de la República.</span>
+								precio directo de fabricante y nos permite reducir el precio al comprador final.</span>
 						</p>
 					</div>
 					<div class="col-12 col-md-6">
