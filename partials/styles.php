@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="js/whatsapp/floating-wpp.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vegas/2.5.1/vegas.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+<link href="http://fonts.cdnfonts.com/css/race-sport-free" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/custom_styles.css">
 <link rel="stylesheet" href="js/pushy/css/pushy.css">
