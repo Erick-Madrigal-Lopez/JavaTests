@@ -15,7 +15,7 @@
 					<style>.sans-serif{font-family: "COCOGOOSE";}</style>
 					<p class="text-white small justify-content-center ">
 						<a href="aviso-de-privacidad.php" class="text-white mb-1 d-block sans-serif ">Aviso de privacidad</a>
-						<a href="mailto:emmanuel.villasenor@asersa.mx" class="text-decoration-none text-white mb-1 text-lowercase d-block sans-serif">emmanuel.villasenor@asersa.mx</a>
+						<a href="mailto:emmanuel.villasenor@asersa.mx" class="text-decoration-none text-white mb-1 text-lowercase d-block sans-serif">emmanuel.villasenor<span class="text-white">@</span>asersa.mx</a>
 						<a href="tel:3336960808" class="text-decoration-none text-white sans-serif">+52 (33) 3696 0808</a> Ext. 11002
 					</p>
 				</div>
@@ -39,7 +39,7 @@
 	<div class="bot text-white py-4 text-center">
 		<div class="container">
 			<span class="text-white">
-				&copy;Todos los derechos reservados <?php echo date('Y'); ?>. - Site By: <span class="text-white f600">SLI</span> <!--<a href="https://bolder.com.mx" target="_blank" class="f600">Bolder</a>-->
+				<p class="text-uppercase text-white">&copy;Todos los derechos reservados <?php echo date('Y'); ?>. - Site By: <span class="text-white f600">SLI</span> <!--<a href="https://bolder.com.mx" target="_blank" class="f600">Bolder</a>--></p>
 			</span>
 		</div>
 	</div>
