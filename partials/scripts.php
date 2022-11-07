@@ -3,6 +3,29 @@
 <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js' defer></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" defer></script>
 <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const dataAnimates = document.querySelectorAll("[data-animate]")
+        const ioAnimate = new IntersectionObserver(ioHandlerAnimate, ioConfigAnimate);
+
+        [].forEach.call(dataAnimates, dataAnimate => ioAnimate.observe(dataAnimate))
+    })
+
+    const ioHandlerAnimate = (entries, self) => {
+        for (let entry of entries) {
+            const target = entry.target
+            if (entry.intersectionRatio > .2) {
+                target.classList.add(`animate-${target.getAttribute("data-animate")}`)
+                self.unobserve(target);
+            }
+        }
+    }
+
+    const ioConfigAnimate = {
+        threshold: .2
+    }
+
+</script>
+<script>
 	var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 
 	if ( width > 600) {
