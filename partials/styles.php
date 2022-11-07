@@ -1,5 +1,5 @@
-<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="img/asersa/icono asersa.png" type="image/x-icon">
+<link rel="icon" href="img/asersa/icono asersa.png" type="image/x-icon">
 
 <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fakeloader@1.0.0/fakeLoader.css">-->
 <link rel="stylesheet" href="css/fajeLoader.css">
