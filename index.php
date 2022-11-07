@@ -88,18 +88,9 @@
 				</div>
 				<div class="col-12 col-md-6">
 					<div>
-		<!-- imagenes de certificacion iso
-						<img src="img/iso01.png" class="img-fluid mr-2" alt="">
-						<img src="img/iso02.png" class="img-fluid" alt="">
-		-->
 					</div>
 
 					<div id="slideEmpresa" class="carousel slide mt-5" >
-						<!-- <ol class="carousel-indicators">
-							<li data-target="#slideEmpresa" data-slide-to="0" class="active"></li>
-							<li data-target="#slideEmpresa" data-slide-to="1"></li>
-							<li data-target="#slideEmpresa" data-slide-to="2"></li>
-						</ol> -->
 						<div class="carousel-inner">
 							<div class="carousel-item active">
 								<h3 class="rojo f800 text-uppercase">¿Quiénes somos?</h3>
@@ -125,18 +116,12 @@
 								<p class="text-justify">
 									Ser la mejor opción para nuestros clientes, colaboradores y socios comerciales, en el rubro de mantenimiento vehicular a nivel local y nacional a través de nuestros socios comerciales, diferenciados por la calidad de nuestros servicios, competitividad de nuestro personal, infraestructura, vanguardia en tecnología automotriz y compromiso con el medio ambiente.
 								</p>
-								<!--<p>
-									Somos un grupo de empresas que brindamos soluciones logísticas inteligentes, creadas para satisfacer las necesidades de nuestros clientes y asociados, mediante la integración eficiente de la red de valor.
-								</p>-->
 							</div>
 							<div class="carousel-item">
 								<h3 class="rojo f800 text-uppercase">Visión</h3>
 								<p class="text-justify">
 									Brindar la mejor calidad en nuestros servicios de mantenimiento vehicular, conservando las unidades de nuestros clientes en un estado de operación eficiente y seguro, satisfaciendo las necesidades de cada uno de nuestros clientes en tiempo y costo apoyados de nuestros pilares.
 								</p>
-								<!--<p>
-									En 2025 ser la integradora de soluciones logisticas mas innovadora de México, agregando valor a nuestros clientes, colaboradores y socios de negocio.
-								</p>-->
 							</div>
 						</div>
 						<ul class="empresa-nav d-flex flex-column justify-content-between align-items-center flex-md-row align-items-md-between">
@@ -145,14 +130,6 @@
 							<li data-target="#slideEmpresa" data-slide-to="2" class="mb-2">Misión</li>
 							<li data-target="#slideEmpresa" data-slide-to="3" class="mb-2">Visión</li>
 						</ul>
-						<!-- <a class="carousel-control-prev" href="#slideEmpresa" role="button" data-slide="prev">
-							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-							<span class="sr-only">Previous</span>
-						</a>
-						<a class="carousel-control-next" href="#slideEmpresa" role="button" data-slide="next">
-							<span class="carousel-control-next-icon" aria-hidden="true"></span>
-							<span class="sr-only">Next</span>
-						</a> -->
 					</div>
 				</div>
 			</div>
@@ -168,30 +145,13 @@
 					<img src="img/icons/respuesta.png" class="img-fluid" alt="">
 					<p class="h5 f800 text-uppercase mt-3">Gran capacidad <br>de respuesta</p>
 				</div>
-				<!--
-				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/seguimiento.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><--Seguimiento en <br>tiempo real</p>--
-				</div>
-				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/soluciones.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><--Soluciones <br>inteligentes</p>--
-				</div>
-				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/capacidad.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><--Gran capacidad <br>de carga</p>--
-				</div>
-				<div class="col-6 col-sm-4 mb-4">
-					<img src="img/icons/cobertura.png 3" class="img-fluid" alt="">
-					<p class="h5 f800 text-uppercase mt-3"><--Cobertura <br>Geográfica</p>--
-				</div>-->
 			</div>
 
 			<div class="text-center mt-5 d-flex flex-column align-items-center">
-				<a href="https://www.youtube3.com/watch?v=DMwMJaCadF0" class="btn bg-rojo rounded-pill text-white mb-4 video-iframe px-5 py-2 f800" >
+				<a href="https://www.youtube3.com/watch?v=DMwMJaCadF0" class="btn bg-rojo rounded-pill text-white mb-4 video-iframe px-5 py-2 f800" hidden>
 					Ver video
 				</a>
-				<a href="https://www.youtube3.com/watch?v=DMwMJaCadF0" class="video-iframe">
+				<a href="https://www.youtube3.com/watch?v=DMwMJaCadF0" class="video-iframe" hidden>
 					<img src="img/video.png 2" class="img-fluid" alt="Youtube video.mp4">
 				</a>
 			</div>
@@ -255,12 +215,9 @@
 					Somos una empresa comprometida con la innovación y el servicio a bien del consumidor, 
 					todos nuestros productos son importados y de primera calidad con el fin de ofrecer 
 					el mejor servicio posible a nuestros clientes 
-					<!--
-					Combinamos una robusta <span class="f600">infraestructura logística, innovación tecnológica y un gran equipo humano</span> para hacer cada traslado lo más seguro y eficiente posible.
-				--></p>
+				</p>
 				<p class="h5 text-uppercase f800 rojo py-4 d-block">
-					<!-- SLI ofrece las siguientes ventajas:-->
-					Ventajas de elejirnos
+					Ventajas de elejirnos:
 				</p>
 			</div>
 			<div class="row text-center mt-5 d-flex justify-content-center">
@@ -288,80 +245,6 @@
 						</p>
 					</div>
 				</div>
-				<!--<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/calidad-y-procesos.png 2" class="img-fluid" alt="Imagen">
-					<p class="f800 text-uppercase mt-3">
-						<!--Transporte <br>multimodal-- Título
-					</p>
-					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Transporte <br>multimodal-- Título </h4>
-						<p class="text-white">Contenido<!--
-							Como empresa multimodal, integramos los servicios <span class="f600 text-white">marítimo, ferroviario y autotransporte,</span> garantizando el envío de su producto a cualquier parte del país.--
-						</p>
-					</div>
-				</div>
-				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/cobertura-nacional.png 2" class="img-fluid" alt="Imagen">
-					<p class="f800 text-uppercase mt-3">
-						<!--Cobertura <br>nacional-- Título
-					</p>
-					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Cobertura <br>nacional-- Título</h4>
-						<p class="text-white">Contenido<!--
-							Tenemos sucursales en los puntos estratégicos más importantes del país, con ejecutivos especializados en los diferentes canales de servicio.
-						--</p>
-					</div>
-				</div>
-				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/tarifas-competitivas.png 2" class="img-fluid" alt="Imagen">
-					<p class="f800 text-uppercase mt-3">
-						<!--Tarifas Competitivas-- Titulo
-					</p>
-					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Tarifas <br>Competitivas-- Titulo</h4>
-						<p class="text-white"> Contenido<!--
-							Gracias a nuestra cobertura nacional, infraestructura y tecnologías aplicadas nos reafirmamos como la empresa transportista que ofrece las mejores tarifas del mercado.--
-						</p>
-					</div>
-				</div>
-				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/tecnologia-de-vanguardia.png 2" class="img-fluid" alt="Imagen">
-					<p class="f800 text-uppercase mt-3">
-						<!--Tecnología de vanguardia-- Titulo
-					</p>
-					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Tecnología de <br>vanguardia-- Titulo</h4>
-						<p class="text-white">
-							<!--SLI integra sistemas de útlima generación tanto para el monitoreo GPS de unidades, controles de seguridad en ruta y patios así como sistemas Web App y Apps para gestión y administración que permiten a nuestros clientes consultar en tiempo real el status de sus rutas así como su historial.-- Contenido
-						</p>
-					</div>
-				</div>
-				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/equipo-vehicular.png 2" class="img-fluid" alt="Imagen">
-					<p class="f800 text-uppercase mt-3">
-						<!--Equipo <br>vehicular-- Titulo
-					</p>
-					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Equipo <br>vehicular-- Titulo</h4>
-						<p class="text-white">
-							Contenido
-							<!--Contamos con los modelos más recientes de portacontenedores, cajas secas, jaulas y tolvas. Unidades sometidas a constante mantenimiento en nuestros talleres propios permitiéndonos una cobertura nacional.--
-						</p>
-					</div>
-				</div>
-				<div class="ventaja col-12 col-md-4 mb-3">
-					<img src="img/seguro-de-mercancia.png 2" class="img-fluid" alt="Imagen">
-					<p class="f800 text-uppercase mt-3">
-						<!--Seguro <br>de mercancia-- Titulo
-					</p>
-					<div class="descripcion p-4 bg-gris-oscuro text-center flex-column justify-content-center">
-						<h4 class="f800 opacity-40 text-white mb-4"><!--Seguro de <br>Mercancía-- Titulo</h4>
-						<p class="text-white">
-							Contenido
-							<!--Ofrecemos un seguro opcional contra robo de mercancía o accidentes.--
-						</p>
-					</div>
-				</div>-->
 			</div>
 		</div>
 	</section>

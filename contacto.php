@@ -37,60 +37,24 @@
 
     <section class="section-contacto padding">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-12 col-md-6 mb-3 mb-md-0">
-                    <span class="bg-rojo text-white text-uppercase f800 h5 d-inline-block py-2 px-3">Matríz Jalisco</span>
-                    <p class="f800 font-italic text-uppercase my-3">
+                    <span class="bg-rojo text-white text-uppercase f800 h5 d-inline-block py-2 px-3 text-center d-block m-auto">Matríz Jalisco</span>
+                    <p class="f800 font-italic text-uppercase my-3 text-center">
                         ASERSA SA DE CV
                     </p>
-                    <p>
+                    <p class="text-center">
                         <span class="f800">Carretera a la Capilla 840-D,</span> <br>
                         La capilla, Ixtlahuacán de los Membrillos, <br>
                         Jalisco, México  CP: 45870
                     </p>
-                    <div class="d-flex align-items-center">
+                    <div class="d-flex align-items-center justify-content-center">
                         <div>
                             <a href="tel:3336960808" class="f800 text-decoration-none icon bg-rojo mr-2 text-center">
                                 <i class="fa fa-phone text-white"></i>
                             </a>
                         </div>
                         <span class="f600">+52 (33) 3696 0808</span>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6">
-                    <div class="row">
-                        <!--<div class="col-12 col-md-6 d-flex align-items-center justify-content-start mb-4">
-                            <div>
-                                <a href="http://clientes.sli.mx/" target="_blank" class="btn btn-success mr-3 icon">
-                                    <i class="fa fa-user text-white"></i>
-                                </a>
-                            </div>
-                            <span class="text-uppercase f600">Portal <br>clientes</span>
-                        </div>
-                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-start mb-4">
-                            <div>
-                                <a href="http://asociados.sli.mx/" target="_blank" class="btn btn-primary mr-3 icon">
-                                    <i class="fa fa-user text-white"></i>
-                                </a>
-                            </div>
-                            <span class="text-uppercase f600">Portal <br>Asociados</span>
-                        </div>
-                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-start mb-4">
-                            <div>
-                                <a href="mailto:proveedores@sli.mx" target="_blank" class="btn bg-rojo mr-3 icon">
-                                    <i class="fa fa-envelope text-white"></i>
-                                </a>
-                            </div>
-                            <span class="text-uppercase f600">Proveedores</span>
-                        </div>
-                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-start mb-4">
-                            <div>
-                                <a href="mailto:bolsadetrabajo@sli.mx" target="_blank" class="btn bg-rojo mr-3 icon">
-                                    <i class="fa fa-envelope text-white"></i>
-                                </a>
-                            </div>
-                            <span class="text-uppercase f600">Bolsa de <br>trabajo</span>
-                        </div>-->
                     </div>
                 </div>
             </div>
@@ -100,7 +64,7 @@
                     <div class="mt-5 d-flex align-items-center justify-content-between">
                         <span class="bg-rojo text-white text-uppercase f800 h5 d-inline-block py-2 px-3">Contáctanos</span>
                         <span class="text-uppercase f600 h5">
-                            Cotizaciones Clientes
+                            Cotizaciones <br> Clientes
                         </span>
                     </div>
                     <form class="mt-4" action="enviar.php" method="post" data-toggle="validator" data-disable="false" dat-focus="false">
